@@ -8,8 +8,6 @@ List of senators in 115th Congress was taken from: https://en.wikipedia.org/wiki
 
 ## Go back:
 
-1. `"Hillary Rodham Clinton"` or `"Hillary Clinton"` for `"name"`?
+1. Should Independent senators (denoted with `"party": "I"`) be further investigated and determined liberal/conservative? i.e. Bernie Sanders is considered very liberal.
 
-2. Should Independent senators (denoted with `"party": "I"`) be further investigated and determined liberal/conservative? i.e. Bernie Sanders is considered very liberal.
-
-3. I've listed all the senators for the 115th (current) Congress only. Is it necessary to go back even further? Perhaps just the 114th and 115th Congresses? Because the articles I search will come from 2015-2017.
+2. I've listed all the senators for the 115th (current) Congress only. Is it necessary to go back even further? Perhaps just the 114th and 115th Congresses? Because the articles I search will come from 2015-2017.
