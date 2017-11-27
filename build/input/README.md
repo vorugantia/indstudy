@@ -18,3 +18,7 @@ Data is listed in `senator_list.json` as an array of objects (with keys `name` a
 For now I'm selecting the New York Times and the Wall Street Journal as my two news sources, as they're both NYC-based and are supposed to have opposite political leanings.
 
 Data is listed in `source_list.json` as a simple array of source names.
+
+## ParseHub results
+
+The JSON files beginning with `parsehub` are the raw file outputs after running a web scrape on ProQuest.

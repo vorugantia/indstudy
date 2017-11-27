@@ -1,0 +1,408 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(new york times) AND (\"Luther Strange\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "53 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Patrick Leahy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Orrin Hatch\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Thad Cochran\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chuck Grassley\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mitch McConnell\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "595 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Richard Shelby\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John McCain\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "467 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Dianne Feinstein\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "103 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Patty Murray\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "87 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jim Inhofe\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ron Wyden\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "94 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Pat Roberts\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Dick Durbin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jack Reed\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeff Sessions\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "717 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Susan Collins\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "228 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Enzi\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chuck Schumer\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "441 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Crapo\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bill Nelson\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tom Carper\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Debbie Stabenow\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Maria Cantwell\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Cornyn\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "110 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Lisa Murkowski\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "140 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Lindey Graham\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "234 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Lamar Alexander\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "111 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Richard Burr\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "28 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Thune\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Johnny Isakson\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bob Menendez\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ben Cardin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bernie Sanders\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "349 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Sherrod Brown\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "44 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bob Casey\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bob Corker\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "188 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Claire McCaskill\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "48 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Amy Klobuchar\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "45 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Sheldon Whitehouse\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jon Tester\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Barrasso\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Roger Wicker\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tom Udall\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeanne Shaheen\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mark Warner\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "111 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jim Risch\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeff Merkley\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Michael Bennet\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Kirsten Gillibrand\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "33 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Al Franken\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "95 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Joe Manchin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "59 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chris Coons\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Roy Blunt\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jerry Moran\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Rob Portman\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "82 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Boozman\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Pat Toomey\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Hoeven\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Marco Rubio\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "163 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ron Johnson\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "39 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Rand Paul\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "131 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Richard Blumenthal\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "74 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Lee\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "67 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Dean Heller\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "81 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Brian Schatz\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tim Scott\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "28 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tammy Baldwin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeff Flake\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "127 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Joe Donnelly\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chris Murphy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mazie Hirono\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Martin Heinrich\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Angus King\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tim Kaine\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "63 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ted Cruz\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "206 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Elizabeth Warren\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "162 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Deb Fischer\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Heidi Heitkamp\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ed Markey\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Cory Booker\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "57 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Shelley Moore Capito\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "66 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Gary Peters\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bill Cassidy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "69 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Cory Gardner\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"James Lankford\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tom Cotton\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "77 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Steve Daines\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Rounds\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"David Perdue\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Thom Tillis\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Joni Ernst\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ben Sasse\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "61 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Dan Sullivan\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chris Van Hollen\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Todd Young\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tammy Duckworth\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Maggie Hassan\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Kamala Harris\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Neely Kennedy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Catherine Cortez Masto\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  }
+ ]
+}

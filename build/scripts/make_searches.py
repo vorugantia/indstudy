@@ -21,3 +21,4 @@ def make_searches():
 
 with open('../output/query.json', 'w') as outfile:
     json.dump(make_searches(), outfile)
+
