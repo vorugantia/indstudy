@@ -1,407 +1,404 @@
 {
  "results": [
   {
-   "searchTerm": "pub(wall street journal) AND (\"Luther Strange\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "87 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Patrick Leahy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "55 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Orrin Hatch\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "265 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Thad Cochran\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "15 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Chuck Grassley\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "225 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Mitch McConnell\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "1,101 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Richard Shelby\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "57 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"John McCain\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "810 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Dianne Feinstein\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "218 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Patty Murray\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "184 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jim Inhofe\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "6 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Ron Wyden\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "187 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Pat Roberts\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "24 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Dick Durbin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "88 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jack Reed\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "22 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jeff Sessions\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "1,099 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Susan Collins\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "432 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Mike Enzi\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "13 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Chuck Schumer\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "959 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Mike Crapo\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "142 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Bill Nelson\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "74 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Tom Carper\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "24 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Debbie Stabenow\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "56 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Maria Cantwell\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "23 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"John Cornyn\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "225 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Lisa Murkowski\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "233 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Lindey Graham\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "512 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Lamar Alexander\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "207 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Richard Burr\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "122 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"John Thune\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "126 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Johnny Isakson\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "37 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Bob Menendez\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "63 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Ben Cardin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "114 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Bernie Sanders\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "629 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Sherrod Brown\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "246 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Bob Casey\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "48 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Bob Corker\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "321 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Claire McCaskill\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "107 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Amy Klobuchar\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "43 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Sheldon Whitehouse\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "44 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jon Tester\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "63 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"John Barrasso\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "40 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Roger Wicker\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "14 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Tom Udall\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "15 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jeanne Shaheen\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "30 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Mark Warner\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "232 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jim Risch\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "4 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jeff Merkley\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "59 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Michael Bennet\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "29 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Kirsten Gillibrand\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "57 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Al Franken\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "103 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Joe Manchin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "175 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Chris Coons\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "84 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Roy Blunt\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "36 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jerry Moran\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "68 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Rob Portman\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "190 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"John Boozman\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "37 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Pat Toomey\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "153 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"John Hoeven\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "26 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Marco Rubio\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "302 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Ron Johnson\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "152 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Rand Paul\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "416 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Richard Blumenthal\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "110 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Mike Lee\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "241 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Dean Heller\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "210 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Brian Schatz\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "38 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Tim Scott\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "49 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Tammy Baldwin\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "32 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Jeff Flake\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "166 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Joe Donnelly\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "81 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Chris Murphy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "81 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Mazie Hirono\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "9 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Martin Heinrich\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "19 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Angus King\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "32 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Tim Kaine\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "62 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Ted Cruz\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "394 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Elizabeth Warren\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "467 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Deb Fischer\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "15 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Heidi Heitkamp\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "167 results"
-  },
-  {
-   "searchTerm": "pub(wall street journal) AND (\"Ed Markey\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "searchTerm": "pub(wall street journal) AND (\"Jim Inhofe\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
    "numberofResults": "16 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Cory Booker\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "112 results"
+   "searchTerm": "pub(wall street journal) AND (\"Pat Roberts\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "35 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Shelley Moore Capito\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "137 results"
+   "searchTerm": "pub(wall street journal) AND (\"John Barrasso\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "16 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Gary Peters\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "searchTerm": "pub(wall street journal) AND (\"James Lankford\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
    "numberofResults": "10 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Bill Cassidy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "185 results"
+   "searchTerm": "pub(wall street journal) AND (\"James Risch\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "3 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Cory Gardner\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "78 results"
+   "searchTerm": "pub(wall street journal) AND (\"David Perdue\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "16 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"James Lankford\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "25 results"
+   "searchTerm": "pub(wall street journal) AND (\"Deb Fischer\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "9 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Tom Cotton\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "168 results"
+   "searchTerm": "pub(wall street journal) AND (\"Mike Lee\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "129 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Steve Daines\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "searchTerm": "pub(wall street journal) AND (\"Tom Cotton\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "86 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Tim Scott\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Mike Enzi\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"John Boozman\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"David Vitter\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Steve Daines\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"John Cornyn\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "99 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Jeff Sessions\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "283 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Mike Crapo\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "45 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Ron Johnson\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "176 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"John Thune\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "84 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Mike Rounds\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Dan Coats\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "45 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Bill Cassidy\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Johnny Isakson\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Cory Gardner\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "41 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Marco Rubio\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "1,697 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Roy Blunt\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "59 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Jeff Flake\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "92 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Roger Wicker\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
    "numberofResults": "18 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Mike Rounds\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "34 results"
+   "searchTerm": "pub(wall street journal) AND (\"Mitch McConnell\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "690 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"David Perdue\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "85 results"
+   "searchTerm": "pub(wall street journal) AND (\"Jerry Moran\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "25 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Thom Tillis\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "37 results"
+   "searchTerm": "pub(wall street journal) AND (\"John McCain\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "932 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Joni Ernst\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "29 results"
+   "searchTerm": "pub(wall street journal) AND (\"John Hoeven\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "1 result"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Ben Sasse\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "118 results"
+   "searchTerm": "pub(wall street journal) AND (\"Ben Sasse\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "93 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Dan Sullivan\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "34 results"
+   "searchTerm": "pub(wall street journal) AND (\"Orrin Hatch\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "160 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Chris Van Hollen\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "29 results"
+   "searchTerm": "pub(wall street journal) AND (\"Thom Tillis\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "19 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Todd Young\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "searchTerm": "pub(wall street journal) AND (\"Joni Ernst\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Rand Paul\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "213 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Pat Toomey\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "170 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Charles Grassley\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "113 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Shelley Moore Capito\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Richard Burr\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "114 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Thad Cochran\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
    "numberofResults": "10 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Tammy Duckworth\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "searchTerm": "pub(wall street journal) AND (\"Dan Sullivan\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
    "numberofResults": "23 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Maggie Hassan\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
-   "numberofResults": "22 results"
+   "searchTerm": "pub(wall street journal) AND (\"Richard Shelby\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "109 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Kamala Harris\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "searchTerm": "pub(wall street journal) AND (\"Lamar Alexander\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "49 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Bob Corker\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "144 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Dean Heller\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Lindsey Graham\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "235 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Kelly Ayotte\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "222 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Rob Portman\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "242 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Mark Kirk\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "156 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Joe Manchin\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "77 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Lisa Murkowski\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Joe Donnelly\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "44 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Heidi Heitkamp\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
    "numberofResults": "61 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"John Neely Kennedy\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)"
+   "searchTerm": "pub(wall street journal) AND (\"Mark Warner\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "123 results"
   },
   {
-   "searchTerm": "pub(wall street journal) AND (\"Catherine Cortez Masto\") AND stype.exact(\"Newspapers\") AND pd(20170101-20171231)",
+   "searchTerm": "pub(wall street journal) AND (\"Bill Nelson\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Angus King\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
    "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Jon Tester\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "68 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Susan Collins\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "102 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Tom Carper\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Michael Bennet\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "39 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Claire McCaskill\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "80 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Tom Udall\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Tim Kaine\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "377 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Maria Cantwell\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Bob Casey\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Chris Coons\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Gary Peters\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Martin Heinrich\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Jeanne Shaheen\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Amy Klobuchar\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "40 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Cory Booker\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "61 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Harry Reid\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "444 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Ben Cardin\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "47 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Ron Wyden\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "69 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Patrick Leahy\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "54 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Debbie Stabenow\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "31 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Brian Schatz\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Robert Menendez\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Chris Murphy\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Charles Schumer\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "244 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Patty Murray\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Barbara Mikulski\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Tammy Baldwin\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Dianne Feinstein\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "99 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Mazie Hirono\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Sheldon Whitehouse\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "68 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Sherrod Brown\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "182 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Jack Reed\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Richard Blumenthal\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "71 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Barbara Boxer\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "62 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Jeff Merkley\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "82 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Richard Durbin\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Kirsten Gillibrand\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "66 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Al Franken\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Edward Markey\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Bernie Sanders\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "3,885 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Elizabeth Warren\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "937 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Ted Cruz\") AND stype.exact(\"Newspapers\") AND pd(20160101-20161231)",
+   "numberofResults": "2,740 results"
   }
  ]
 }
