@@ -1,28 +1,25 @@
 # Load the JSON output files that came directly from ParseHub
-# Output file is the formatted table combining the results from every news source
+# Output JSON file is a of objects, with each object containing the keys: senator, party, source, numResults
 import json
 import re
 
 with open('../output/parsehub-nyt-senators.json') as nyt:
-    parsehub_nyt = json.load(nyt)['results']
+    parsehub_nyt = json.load(nyt)
 
 with open('../output/parsehub-wsj-senators.json') as wsj:
-    parsehub_wsj = json.load(wsj)['results']
+    parsehub_wsj = json.load(wsj)
 
 with open('../input/senator_list.json') as senator_list:
     senators = json.load(senator_list)
 
-# TODO: Reformat this table to have the columns: senator, party, ideology, NYT results, WSJ  results
 table = []
 def fill_table(parsehub):
-
-    for i in parsehub:
+    for i in parsehub['results']:
         search_terms = i['searchTerm'].split(" AND ")
 
         row = {
             'senator': '',
             'party': '',
-            'ideology': '', # TODO: Fill with ideology score "weight"
             'source': '',
             'numResults': ''
         }
