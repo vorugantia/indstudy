@@ -2,15 +2,13 @@
 
 ## 1. Senators
 
-I've compiled a list of senators from the 115th Congress (2017-2019) which will us used in the analysis of newspapers from the year 2017. This can be extended to the 114th Congress (2015-2017) later if needed.
+I've compiled a list of senators from the ~~115th Congress (2017-2019) which will us used in the analysis of newspapers from the year 2017.~~
 
 [List of senators in the 115th Congress](https://en.wikipedia.org/wiki/List_of_United_States_Senators_in_the_115th_Congress_by_seniority) ([Alternate reference](https://www.senate.gov/artandhistory/history/common/briefing/senators_chronological.htm))
 
-Data is listed in `senator_list.json` as an array of objects (with keys `name` and `party`).
+Data is listed in `senator_list.json` as an array of objects (with keys `name` and `party`, and `altname` if any senator has a common alternative name/nickname).
 
-### Notes:
-
-1. Should I investigate Independent senators Bernie Sanders and Angus King to determine whether they belong more in the Democratic or Republican parties?
+**First, I'm compiling a list of senators for 2016 (saved as `senator_list.json`). Once the year 2017 is completed, I will switch the senator list to the 2017 version.**
 
 
 ## Sources
