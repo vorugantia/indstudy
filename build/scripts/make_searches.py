@@ -11,7 +11,7 @@ with open('../input/source_list.json') as source_list:
 
 # TODO: Add an "altname" option in this template, for senators who are commonly referred to with two different names.
 def get_template(source, senator):
-    return 'pub(%s) AND ("%s") AND stype.exact("Newspapers") AND pd(20170101-20171231)' % (source, senator)
+    return 'pub(%s) AND ("%s") AND stype.exact("Newspapers") AND pd(20160101-20161231)' % (source, senator)
 
 def make_searches():
     searches = []
