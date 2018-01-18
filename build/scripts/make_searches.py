@@ -3,7 +3,7 @@
 # Write the array of search terms to output JSON file.
 import json
 
-with open('../input/senator_list.json') as senator_list:
+with open('../input/senator_list_2017.json') as senator_list:
     senators = json.load(senator_list)
 
 with open('../input/source_list.json') as source_list:
