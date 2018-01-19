@@ -1,0 +1,418 @@
+[
+  {
+    "name": "Jim Inhofe",
+    "altname": "James Inhofe",
+    "party": "R"
+  },
+  {
+    "name": "Pat Roberts",
+    "party": "R"
+  },
+  {
+    "name": "John Barrasso",
+    "party": "R"
+  },
+  {
+    "name": "James Lankford",
+    "party": "R"
+  },
+  {
+    "name": "James Risch",
+    "party": "R"
+  },
+  {
+    "name": "David Perdue",
+    "party": "R"
+  },
+  {
+    "name": "Deb Fischer",
+    "party": "R"
+  },
+  {
+    "name": "Mike Lee",
+    "party": "R"
+  },
+  {
+    "name": "Tom Cotton",
+    "party": "R"
+  },
+  {
+    "name": "Tim Scott",
+    "party": "R"
+  },
+  {
+    "name": "Mike Enzi",
+    "altname": "Michael Enzi",
+    "party": "R"
+  },
+  {
+    "name": "John Boozman",
+    "party": "R"
+  },
+  {
+    "name": "David Vitter",
+    "party": "R"
+  },
+  {
+    "name": "Steve Daines",
+    "party": "R"
+  },
+  {
+    "name": "John Cornyn",
+    "party": "R"
+  },
+  {
+    "name": "Jeff Sessions",
+    "party": "R"
+  },
+  {
+    "name": "Mike Crapo",
+    "altname": "Michael Crapo",
+    "party": "R"
+  },
+  {
+    "name": "Ron Johnson",
+    "party": "R"
+  },
+  {
+    "name": "John Thune",
+    "party": "R"
+  },
+  {
+    "name": "Mike Rounds",
+    "party": "R"
+  },
+  {
+    "name": "Dan Coats",
+    "altname": "Daniel Coats",
+    "party": "R"
+  },
+  {
+    "name": "Bill Cassidy",
+    "party": "R"
+  },
+  {
+    "name": "Johnny Isakson",
+    "altname": "John Isakson",
+    "party": "R"
+  },
+  {
+    "name": "Cory Gardner",
+    "party": "R"
+  },
+  {
+    "name": "Marco Rubio",
+    "party": "R"
+  },
+  {
+    "name": "Roy Blunt",
+    "party": "R"
+  },
+  {
+    "name": "Jeff Flake",
+    "party": "R"
+  },
+  {
+    "name": "Roger Wicker",
+    "party": "R"
+  },
+  {
+    "name": "Mitch McConnell",
+    "party": "R"
+  },
+  {
+    "name": "Jerry Moran",
+    "party": "R"
+  },
+  {
+    "name": "John McCain",
+    "party": "R"
+  },
+  {
+    "name": "John Hoeven",
+    "party": "R"
+  },
+  {
+    "name": "Ben Sasse",
+    "party": "R"
+  },
+  {
+    "name": "Orrin Hatch",
+    "party": "R"
+  },
+  {
+    "name": "Thom Tillis",
+    "party": "R"
+  },
+  {
+    "name": "Joni Ernst",
+    "party": "R"
+  },
+  {
+    "name": "Rand Paul",
+    "party": "R"
+  },
+  {
+    "name": "Pat Toomey",
+    "altname": "Patrick Toomey",
+    "party": "R"
+  },
+  {
+    "name": "Charles Grassley",
+    "altname": "Chuck Grassley",
+    "party": "R"
+  },
+  {
+    "name": "Shelley Moore Capito",
+    "altname": "Shelley Capito",
+    "party": "R"
+  },
+  {
+    "name": "Richard Burr",
+    "party": "R"
+  },
+  {
+    "name": "Thad Cochran",
+    "party": "R"
+  },
+  {
+    "name": "Dan Sullivan",
+    "party": "R"
+  },
+  {
+    "name": "Richard Shelby",
+    "party": "R"
+  },
+  {
+    "name": "Lamar Alexander",
+    "party": "R"
+  },
+  {
+    "name": "Bob Corker",
+    "party": "R"
+  },
+  {
+    "name": "Dean Heller",
+    "party": "R"
+  },
+  {
+    "name": "Lindsey Graham",
+    "party": "R"
+  },
+  {
+    "name": "Kelly Ayotte",
+    "party": "R"
+  },
+  {
+    "name": "Rob Portman",
+    "party": "R"
+  },
+  {
+    "name": "Mark Kirk",
+    "party": "R"
+  },
+  {
+    "name": "Joe Manchin",
+    "party": "D"
+  },
+  {
+    "name": "Lisa Murkowski",
+    "party": "R"
+  },
+  {
+    "name": "Joe Donnelly",
+    "party": "D"
+  },
+  {
+    "name": "Heidi Heitkamp",
+    "party": "D"
+  },
+  {
+    "name": "Mark Warner",
+    "party": "D"
+  },
+  {
+    "name": "Bill Nelson",
+    "party": "D"
+  },
+  {
+    "name": "Angus King",
+    "party": "I"
+  },
+  {
+    "name": "Jon Tester",
+    "party": "D"
+  },
+  {
+    "name": "Susan Collins",
+    "party": "R"
+  },
+  {
+    "name": "Tom Carper",
+    "altmane": "Thomas Carper",
+    "party": "D"
+  },
+  {
+    "name": "Michael Bennet",
+    "party": "D"
+  },
+  {
+    "name": "Claire McCaskill",
+    "party": "D"
+  },
+  {
+    "name": "Tom Udall",
+    "party": "D"
+  },
+  {
+    "name": "Tim Kaine",
+    "party": "D"
+  },
+  {
+    "name": "Maria Cantwell",
+    "party": "D"
+  },
+  {
+    "name": "Bob Casey",
+    "altname": "Robert Casey",
+    "party": "D"
+  },
+  {
+    "name": "Chris Coons",
+    "party": "D"
+  },
+  {
+    "name": "Gary Peters",
+    "party": "D"
+  },
+  {
+    "name": "Martin Heinrich",
+    "party": "D"
+  },
+  {
+    "name": "Jeanne Shaheen",
+    "party": "D"
+  },
+  {
+    "name": "Amy Klobuchar",
+    "party": "D"
+  },
+  {
+    "name": "Cory Booker",
+    "party": "D"
+  },
+  {
+    "name": "Harry Reid",
+    "party": "D"
+  },
+  {
+    "name": "Ben Cardin",
+    "altname": "Benjamin Cardin",
+    "party": "D"
+  },
+  {
+    "name": "Ron Wyden",
+    "party": "D"
+  },
+  {
+    "name": "Patrick Leahy",
+    "party": "D"
+  },
+  {
+    "name": "Debbie Stabenow",
+    "party": "D"
+  },
+  {
+    "name": "Brian Schatz",
+    "party": "D"
+  },
+  {
+    "name": "Robert Menendez",
+    "altname": "Bob Menendez",
+    "party": "D"
+  },
+  {
+    "name": "Chris Murphy",
+    "altname": "Christopher Murphy",
+    "party": "D"
+  },
+  {
+    "name": "Charles Schumer",
+    "altname": "Chuck Schumer",
+    "party": "D"
+  },
+  {
+    "name": "Patty Murray",
+    "party": "D"
+  },
+  {
+    "name": "Barbara Mikulski",
+    "party": "D"
+  },
+  {
+    "name": "Tammy Baldwin",
+    "party": "D"
+  },
+  {
+    "name": "Dianne Feinstein",
+    "party": "D"
+  },
+  {
+    "name": "Mazie Hirono",
+    "party": "D"
+  },
+  {
+    "name": "Sheldon Whitehouse",
+    "party": "D"
+  },
+  {
+    "name": "Sherrod Brown",
+    "party": "D"
+  },
+  {
+    "name": "Jack Reed",
+    "party": "D"
+  },
+  {
+    "name": "Richard Blumenthal",
+    "party": "D"
+  },
+  {
+    "name": "Barbara Boxer",
+    "party": "D"
+  },
+  {
+    "name": "Jeff Merkley",
+    "party": "D"
+  },
+  {
+    "name": "Richard Durbin",
+    "altname": "Dick Durbin",
+    "party": "D"
+  },
+  {
+    "name": "Kirsten Gillibrand",
+    "party": "D"
+  },
+  {
+    "name": "Al Franken",
+    "party": "D"
+  },
+  {
+    "name": "Edward Markey",
+    "altname": "Ed Markey",
+    "party": "D"
+  },
+  {
+    "name": "Bernie Sanders",
+    "party": "I"
+  },
+  {
+    "name": "Elizabeth Warren",
+    "party": "D"
+  },
+  {
+    "name": "Ted Cruz",
+    "party": "R"
+  }
+]

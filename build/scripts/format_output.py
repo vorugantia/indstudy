@@ -3,26 +3,18 @@
 import json
 import re
 
-with open('../output/parsehub-nyt-senators.json') as nyt:
-    parsehub_nyt = json.load(nyt)['results']
-
-with open('../output/parsehub-wsj-senators.json') as wsj:
-    parsehub_wsj = json.load(wsj)['results']
-
 with open('../input/senator_list.json') as senator_list:
     senators = json.load(senator_list)
 
-# TODO: Reformat this table to have the columns: senator, party, ideology, NYT results, WSJ  results
 table = []
 def fill_table(parsehub):
-
-    for i in parsehub:
+    for i in parsehub['results']:
         search_terms = i['searchTerm'].split(" AND ")
 
+        # TODO: make a row in the table called "ideology" to give more weight to most polarizing figures.
         row = {
             'senator': '',
             'party': '',
-            'ideology': '', # TODO: Fill with ideology score "weight"
             'source': '',
             'numResults': ''
         }
@@ -38,7 +30,9 @@ def fill_table(parsehub):
         table.append(row)
 
 def find_senator(term):
-    return re.sub('[(")]', '', term)
+    str = re.sub('[(")]', '', term) # Removes backslashes
+    str = re.sub(r'\s+$', '', str) # Removes trailing spaces
+    return str
 
 def find_party(senator_term):
     senator = find_senator(senator_term)
@@ -52,8 +46,35 @@ def find_source(term):
 def find_numResults(num):
     return re.sub('[^0-9]','', num)
 
-fill_table(parsehub_nyt)
-fill_table(parsehub_wsj)
+# TODO: Don't call this in the script. Instead pass the individual filepaths in CONSOLE, while running the script.
+with open('../output/nyt_2017.json') as new_york_times:
+    nyt = json.load(new_york_times)
+with open('../output/wsj_2017.json') as wall_street_journal:
+    wsj = json.load(wall_street_journal)
+with open('../output/usatoday_2017.json') as usa_today:
+    usatoday = json.load(usa_today)
+with open('../output/nypost_2017.json') as new_york_post:
+    nypost = json.load(new_york_post)
+with open('../output/huffpost_2017.json') as huffington_post:
+    huffpost = json.load(huffington_post)
+with open('../output/washingtonpost_2017.json') as washington_post:
+    washingtonpost = json.load(washington_post)
+with open('../output/latimes_2017.json') as los_angeles_times:
+    latimes = json.load(los_angeles_times)
+with open('../output/chicagotribune_2017.json') as chicago_tribune:
+    chicagotribune = json.load(chicago_tribune)
+with open('../output/dailybeast_2017.json') as the_daily_beast:
+    dailybeast = json.load(the_daily_beast)
+
+fill_table(nyt)
+fill_table(wsj)
+fill_table(usatoday)
+fill_table(nypost)
+fill_table(huffpost)
+fill_table(washingtonpost)
+fill_table(latimes)
+fill_table(chicagotribune)
+fill_table(dailybeast)
 
 with open('../output/results_formatted.json', 'w') as outfile:
     json.dump(table, outfile)
