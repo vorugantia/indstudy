@@ -1,0 +1,408 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(huffington post) AND (\"Luther Strange\")  AND pd(20170101-20171231)",
+   "numberofResults": "68 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Patrick Leahy\")  AND pd(20170101-20171231)",
+   "numberofResults": "37 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Orrin Hatch\")  AND pd(20170101-20171231)",
+   "numberofResults": "83 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Thad Cochran\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Charles Grassley\")  AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Mitch McConnell\")  AND pd(20170101-20171231)",
+   "numberofResults": "603 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Richard Shelby\")  AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"John McCain\")  AND pd(20170101-20171231)",
+   "numberofResults": "456 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Dianne Feinstein\")  AND pd(20170101-20171231)",
+   "numberofResults": "91 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Patty Murray\")  AND pd(20170101-20171231)",
+   "numberofResults": "60 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jim Inhofe\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Ron Wyden\")  AND pd(20170101-20171231)",
+   "numberofResults": "57 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Pat Roberts\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Richard Durbin\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jack Reed\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jeff Sessions\")  AND pd(20170101-20171231)",
+   "numberofResults": "723 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Susan Collins\")  AND pd(20170101-20171231)",
+   "numberofResults": "211 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Mike Enzi\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Charles Schumer\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Mike Crapo\")  AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Bill Nelson\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Tom Carper\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Debbie Stabenow\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Maria Cantwell\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"John Cornyn\")  AND pd(20170101-20171231)",
+   "numberofResults": "75 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Lisa Murkowski\")  AND pd(20170101-20171231)",
+   "numberofResults": "162 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Lindsey Graham\")  AND pd(20170101-20171231)",
+   "numberofResults": "221 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Lamar Alexander\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Richard Burr\")  AND pd(20170101-20171231)",
+   "numberofResults": "75 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"John Thune\")  AND pd(20170101-20171231)",
+   "numberofResults": "29 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Johnny Isakson\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Robert Menendez\")  AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Ben Cardin\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Bernie Sanders\")  AND pd(20170101-20171231)",
+   "numberofResults": "505 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Sherrod Brown\")  AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Bob Casey\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Bob Corker\")  AND pd(20170101-20171231)",
+   "numberofResults": "151 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Claire McCaskill\")  AND pd(20170101-20171231)",
+   "numberofResults": "44 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Amy Klobuchar\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Sheldon Whitehouse\")  AND pd(20170101-20171231)",
+   "numberofResults": "40 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jon Tester\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"John Barrasso\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Roger Wicker\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Tom Udall\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jeanne Shaheen\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Mark Warner\")  AND pd(20170101-20171231)",
+   "numberofResults": "92 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"James Risch\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jeff Merkley\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Michael Bennet\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Kirsten Gillibrand\")  AND pd(20170101-20171231)",
+   "numberofResults": "53 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Al Franken\")  AND pd(20170101-20171231)",
+   "numberofResults": "126 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Joe Manchin\")  AND pd(20170101-20171231)",
+   "numberofResults": "66 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Chris Coons\")  AND pd(20170101-20171231)",
+   "numberofResults": "33 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Roy Blunt\")  AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jerry Moran\")  AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Rob Portman\")  AND pd(20170101-20171231)",
+   "numberofResults": "81 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"John Boozman\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Pat Toomey\")  AND pd(20170101-20171231)",
+   "numberofResults": "31 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"John Hoeven\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Marco Rubio\")  AND pd(20170101-20171231)",
+   "numberofResults": "145 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Ron Johnson\")  AND pd(20170101-20171231)",
+   "numberofResults": "53 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Rand Paul\")  AND pd(20170101-20171231)",
+   "numberofResults": "163 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Richard Blumenthal\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Mike Lee\")  AND pd(20170101-20171231)",
+   "numberofResults": "76 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Dean Heller\")  AND pd(20170101-20171231)",
+   "numberofResults": "86 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Brian Schatz\")  AND pd(20170101-20171231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Tim Scott\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Tammy Baldwin\")  AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Jeff Flake\")  AND pd(20170101-20171231)",
+   "numberofResults": "118 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Joe Donnelly\")  AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Chris Murphy\")  AND pd(20170101-20171231)",
+   "numberofResults": "65 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Mazie Hirono\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Martin Heinrich\")  AND pd(20170101-20171231)",
+   "numberofResults": "28 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Angus King\")  AND pd(20170101-20171231)",
+   "numberofResults": "31 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Tim Kaine\")  AND pd(20170101-20171231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Ted Cruz\")  AND pd(20170101-20171231)",
+   "numberofResults": "209 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Elizabeth Warren\")  AND pd(20170101-20171231)",
+   "numberofResults": "236 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Deb Fischer\")  AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Heidi Heitkamp\")  AND pd(20170101-20171231)",
+   "numberofResults": "34 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Edward Markey\")  AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Cory Booker\")  AND pd(20170101-20171231)",
+   "numberofResults": "78 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Shelley Moore Capito\")  AND pd(20170101-20171231)",
+   "numberofResults": "52 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Gary Peters\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Bill Cassidy\")  AND pd(20170101-20171231)",
+   "numberofResults": "90 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Cory Gardner\")  AND pd(20170101-20171231)",
+   "numberofResults": "55 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"James Lankford\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Tom Cotton\")  AND pd(20170101-20171231)",
+   "numberofResults": "57 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Steve Daines\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Mike Rounds\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"David Perdue\")  AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Thom Tillis\")  AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Joni Ernst\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Ben Sasse\")  AND pd(20170101-20171231)",
+   "numberofResults": "41 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Dan Sullivan\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Chris Van Hollen\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Todd Young\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Tammy Duckworth\")  AND pd(20170101-20171231)",
+   "numberofResults": "31 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Maggie Hassan\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Kamala Harris\")  AND pd(20170101-20171231)",
+   "numberofResults": "90 results"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"John Neely Kennedy\")  AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(huffington post) AND (\"Catherine Cortez Masto\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  }
+ ]
+}

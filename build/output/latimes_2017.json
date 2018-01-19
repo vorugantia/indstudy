@@ -1,0 +1,406 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Luther Strange\")  AND pd(20170101-20171231)",
+   "numberofResults": "127 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Patrick Leahy\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Orrin Hatch\")  AND pd(20170101-20171231)",
+   "numberofResults": "73 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Thad Cochran\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Charles Grassley\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Mitch McConnell\")  AND pd(20170101-20171231)",
+   "numberofResults": "808 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Richard Shelby\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"John McCain\")  AND pd(20170101-20171231)",
+   "numberofResults": "589 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Dianne Feinstein\")  AND pd(20170101-20171231)",
+   "numberofResults": "662 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Patty Murray\")  AND pd(20170101-20171231)",
+   "numberofResults": "96 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jim Inhofe\")  AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Ron Wyden\")  AND pd(20170101-20171231)",
+   "numberofResults": "89 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Pat Roberts\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Richard Durbin\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jack Reed\")  AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jeff Sessions\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,128 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Susan Collins\")  AND pd(20170101-20171231)",
+   "numberofResults": "261 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Mike Enzi\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Charles Schumer\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Mike Crapo\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Bill Nelson\")  AND pd(20170101-20171231)",
+   "numberofResults": "28 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Tom Carper\")  AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Debbie Stabenow\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Maria Cantwell\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"John Cornyn\")  AND pd(20170101-20171231)",
+   "numberofResults": "79 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Lisa Murkowski\")  AND pd(20170101-20171231)",
+   "numberofResults": "158 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Lindsey Graham\")  AND pd(20170101-20171231)",
+   "numberofResults": "268 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Lamar Alexander\")  AND pd(20170101-20171231)",
+   "numberofResults": "105 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Richard Burr\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"John Thune\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Johnny Isakson\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Robert Menendez\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Ben Cardin\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Bernie Sanders\")  AND pd(20170101-20171231)",
+   "numberofResults": "567 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Sherrod Brown\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Bob Casey\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Bob Corker\")  AND pd(20170101-20171231)",
+   "numberofResults": "226 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Claire McCaskill\")  AND pd(20170101-20171231)",
+   "numberofResults": "40 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Amy Klobuchar\")  AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Sheldon Whitehouse\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jon Tester\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"John Barrasso\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Roger Wicker\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Tom Udall\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jeanne Shaheen\")  AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Mark Warner\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"James Risch\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jeff Merkley\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Michael Bennet\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Kirsten Gillibrand\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Al Franken\")  AND pd(20170101-20171231)",
+   "numberofResults": "219 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Joe Manchin\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Chris Coons\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Roy Blunt\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jerry Moran\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Rob Portman\")  AND pd(20170101-20171231)",
+   "numberofResults": "68 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"John Boozman\")  AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Pat Toomey\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"John Hoeven\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Marco Rubio\")  AND pd(20170101-20171231)",
+   "numberofResults": "183 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Ron Johnson\")  AND pd(20170101-20171231)",
+   "numberofResults": "94 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Rand Paul\")  AND pd(20170101-20171231)",
+   "numberofResults": "190 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Richard Blumenthal\")  AND pd(20170101-20171231)",
+   "numberofResults": "54 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Mike Lee\")  AND pd(20170101-20171231)",
+   "numberofResults": "99 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Dean Heller\")  AND pd(20170101-20171231)",
+   "numberofResults": "110 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Brian Schatz\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Tim Scott\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Tammy Baldwin\")  AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Jeff Flake\")  AND pd(20170101-20171231)",
+   "numberofResults": "202 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Joe Donnelly\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Chris Murphy\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Mazie Hirono\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Martin Heinrich\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Angus King\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Tim Kaine\")  AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Ted Cruz\")  AND pd(20170101-20171231)",
+   "numberofResults": "205 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Elizabeth Warren\")  AND pd(20170101-20171231)",
+   "numberofResults": "203 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Deb Fischer\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Heidi Heitkamp\")  AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Edward Markey\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Cory Booker\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Shelley Moore Capito\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Gary Peters\")  AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Bill Cassidy\")  AND pd(20170101-20171231)",
+   "numberofResults": "112 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Cory Gardner\")  AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"James Lankford\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Tom Cotton\")  AND pd(20170101-20171231)",
+   "numberofResults": "88 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Steve Daines\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Mike Rounds\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"David Perdue\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Thom Tillis\")  AND pd(20170101-20171231)",
+   "numberofResults": "34 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Joni Ernst\")  AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Ben Sasse\")  AND pd(20170101-20171231)",
+   "numberofResults": "64 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Dan Sullivan\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Chris Van Hollen\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Todd Young\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Tammy Duckworth\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Maggie Hassan\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Kamala Harris\")  AND pd(20170101-20171231)",
+   "numberofResults": "437 results"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"John Neely Kennedy\")  AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(los angeles times) AND (\"Catherine Cortez Masto\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  }
+ ]
+}

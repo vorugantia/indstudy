@@ -1,0 +1,408 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Luther Strange\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Patrick Leahy\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Orrin Hatch\")  AND pd(20170101-20171231)",
+   "numberofResults": "65 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Thad Cochran\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Charles Grassley\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Mitch McConnell\")  AND pd(20170101-20171231)",
+   "numberofResults": "397 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Richard Shelby\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"John McCain\")  AND pd(20170101-20171231)",
+   "numberofResults": "318 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Dianne Feinstein\")  AND pd(20170101-20171231)",
+   "numberofResults": "73 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Patty Murray\")  AND pd(20170101-20171231)",
+   "numberofResults": "45 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jim Inhofe\")  AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Ron Wyden\")  AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Pat Roberts\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Richard Durbin\")  AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jack Reed\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jeff Sessions\")  AND pd(20170101-20171231)",
+   "numberofResults": "706 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Susan Collins\")  AND pd(20170101-20171231)",
+   "numberofResults": "104 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Mike Enzi\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Charles Schumer\")  AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Mike Crapo\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Bill Nelson\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Tom Carper\")  AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Debbie Stabenow\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Maria Cantwell\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"John Cornyn\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Lisa Murkowski\")  AND pd(20170101-20171231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Lindsey Graham\")  AND pd(20170101-20171231)",
+   "numberofResults": "171 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Lamar Alexander\")  AND pd(20170101-20171231)",
+   "numberofResults": "45 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Richard Burr\")  AND pd(20170101-20171231)",
+   "numberofResults": "44 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"John Thune\")  AND pd(20170101-20171231)",
+   "numberofResults": "34 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Johnny Isakson\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Robert Menendez\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Ben Cardin\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Bernie Sanders\")  AND pd(20170101-20171231)",
+   "numberofResults": "313 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Sherrod Brown\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Bob Casey\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Bob Corker\")  AND pd(20170101-20171231)",
+   "numberofResults": "112 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Claire McCaskill\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Amy Klobuchar\")  AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Sheldon Whitehouse\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jon Tester\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"John Barrasso\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Roger Wicker\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Tom Udall\")  AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jeanne Shaheen\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Mark Warner\")  AND pd(20170101-20171231)",
+   "numberofResults": "44 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"James Risch\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jeff Merkley\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Michael Bennet\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Kirsten Gillibrand\")  AND pd(20170101-20171231)",
+   "numberofResults": "33 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Al Franken\")  AND pd(20170101-20171231)",
+   "numberofResults": "208 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Joe Manchin\")  AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Chris Coons\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Roy Blunt\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jerry Moran\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Rob Portman\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"John Boozman\")  AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Pat Toomey\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"John Hoeven\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Marco Rubio\")  AND pd(20170101-20171231)",
+   "numberofResults": "90 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Ron Johnson\")  AND pd(20170101-20171231)",
+   "numberofResults": "53 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Rand Paul\")  AND pd(20170101-20171231)",
+   "numberofResults": "75 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Richard Blumenthal\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Mike Lee\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Dean Heller\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Brian Schatz\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Tim Scott\")  AND pd(20170101-20171231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Tammy Baldwin\")  AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Jeff Flake\")  AND pd(20170101-20171231)",
+   "numberofResults": "66 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Joe Donnelly\")  AND pd(20170101-20171231)",
+   "numberofResults": "52 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Chris Murphy\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Mazie Hirono\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Martin Heinrich\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Angus King\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Tim Kaine\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Ted Cruz\")  AND pd(20170101-20171231)",
+   "numberofResults": "137 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Elizabeth Warren\")  AND pd(20170101-20171231)",
+   "numberofResults": "118 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Deb Fischer\")  AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Heidi Heitkamp\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Edward Markey\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Cory Booker\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Shelley Moore Capito\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Gary Peters\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Bill Cassidy\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Cory Gardner\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"James Lankford\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Tom Cotton\")  AND pd(20170101-20171231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Steve Daines\")  AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Mike Rounds\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"David Perdue\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Thom Tillis\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Joni Ernst\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Ben Sasse\")  AND pd(20170101-20171231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Dan Sullivan\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Chris Van Hollen\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Todd Young\")  AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Tammy Duckworth\")  AND pd(20170101-20171231)",
+   "numberofResults": "213 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Maggie Hassan\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Kamala Harris\")  AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"John Neely Kennedy\")  AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Catherine Cortez Masto\")  AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  }
+ ]
+}

@@ -1,0 +1,408 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(washington post) AND (\"Luther Strange\")  AND pd(20170101-20171231)",
+   "numberofResults": "404 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Patrick Leahy\")  AND pd(20170101-20171231)",
+   "numberofResults": "47 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Orrin Hatch\")  AND pd(20170101-20171231)",
+   "numberofResults": "183 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Thad Cochran\")  AND pd(20170101-20171231)",
+   "numberofResults": "83 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Charles Grassley\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Mitch McConnell\")  AND pd(20170101-20171231)",
+   "numberofResults": "2,886 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Richard Shelby\")  AND pd(20170101-20171231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"John McCain\")  AND pd(20170101-20171231)",
+   "numberofResults": "2,099 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Dianne Feinstein\")  AND pd(20170101-20171231)",
+   "numberofResults": "462 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Patty Murray\")  AND pd(20170101-20171231)",
+   "numberofResults": "427 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jim Inhofe\")  AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Ron Wyden\")  AND pd(20170101-20171231)",
+   "numberofResults": "340 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Pat Roberts\")  AND pd(20170101-20171231)",
+   "numberofResults": "79 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Richard Durbin\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jack Reed\")  AND pd(20170101-20171231)",
+   "numberofResults": "75 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jeff Sessions\")  AND pd(20170101-20171231)",
+   "numberofResults": "3,295 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Susan Collins\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,110 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Mike Enzi\")  AND pd(20170101-20171231)",
+   "numberofResults": "48 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Charles Schumer\")  AND pd(20170101-20171231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Mike Crapo\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Bill Nelson\")  AND pd(20170101-20171231)",
+   "numberofResults": "173 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Tom Carper\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Debbie Stabenow\")  AND pd(20170101-20171231)",
+   "numberofResults": "91 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Maria Cantwell\")  AND pd(20170101-20171231)",
+   "numberofResults": "87 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"John Cornyn\")  AND pd(20170101-20171231)",
+   "numberofResults": "538 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Lisa Murkowski\")  AND pd(20170101-20171231)",
+   "numberofResults": "697 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Lindsey Graham\")  AND pd(20170101-20171231)",
+   "numberofResults": "321 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Lamar Alexander\")  AND pd(20170101-20171231)",
+   "numberofResults": "473 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Richard Burr\")  AND pd(20170101-20171231)",
+   "numberofResults": "335 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"John Thune\")  AND pd(20170101-20171231)",
+   "numberofResults": "265 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Johnny Isakson\")  AND pd(20170101-20171231)",
+   "numberofResults": "94 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Robert Menendez\")  AND pd(20170101-20171231)",
+   "numberofResults": "157 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Ben Cardin\")  AND pd(20170101-20171231)",
+   "numberofResults": "94 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Bernie Sanders\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,700 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Sherrod Brown\")  AND pd(20170101-20171231)",
+   "numberofResults": "260 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Bob Casey\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Bob Corker\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,158 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Claire McCaskill\")  AND pd(20170101-20171231)",
+   "numberofResults": "293 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Amy Klobuchar\")  AND pd(20170101-20171231)",
+   "numberofResults": "197 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Sheldon Whitehouse\")  AND pd(20170101-20171231)",
+   "numberofResults": "210 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jon Tester\")  AND pd(20170101-20171231)",
+   "numberofResults": "140 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"John Barrasso\")  AND pd(20170101-20171231)",
+   "numberofResults": "156 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Roger Wicker\")  AND pd(20170101-20171231)",
+   "numberofResults": "51 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Tom Udall\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jeanne Shaheen\")  AND pd(20170101-20171231)",
+   "numberofResults": "89 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Mark Warner\")  AND pd(20170101-20171231)",
+   "numberofResults": "179 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"James Risch\")  AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jeff Merkley\")  AND pd(20170101-20171231)",
+   "numberofResults": "144 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Michael Bennet\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Kirsten Gillibrand\")  AND pd(20170101-20171231)",
+   "numberofResults": "281 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Al Franken\")  AND pd(20170101-20171231)",
+   "numberofResults": "763 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Joe Manchin\")  AND pd(20170101-20171231)",
+   "numberofResults": "384 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Chris Coons\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Roy Blunt\")  AND pd(20170101-20171231)",
+   "numberofResults": "211 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jerry Moran\")  AND pd(20170101-20171231)",
+   "numberofResults": "109 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Rob Portman\")  AND pd(20170101-20171231)",
+   "numberofResults": "433 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"John Boozman\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Pat Toomey\")  AND pd(20170101-20171231)",
+   "numberofResults": "45 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"John Hoeven\")  AND pd(20170101-20171231)",
+   "numberofResults": "32 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Marco Rubio\")  AND pd(20170101-20171231)",
+   "numberofResults": "959 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Ron Johnson\")  AND pd(20170101-20171231)",
+   "numberofResults": "392 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Rand Paul\")  AND pd(20170101-20171231)",
+   "numberofResults": "809 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Richard Blumenthal\")  AND pd(20170101-20171231)",
+   "numberofResults": "274 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Mike Lee\")  AND pd(20170101-20171231)",
+   "numberofResults": "455 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Dean Heller\")  AND pd(20170101-20171231)",
+   "numberofResults": "414 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Brian Schatz\")  AND pd(20170101-20171231)",
+   "numberofResults": "109 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Tim Scott\")  AND pd(20170101-20171231)",
+   "numberofResults": "211 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Tammy Baldwin\")  AND pd(20170101-20171231)",
+   "numberofResults": "129 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Jeff Flake\")  AND pd(20170101-20171231)",
+   "numberofResults": "822 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Joe Donnelly\")  AND pd(20170101-20171231)",
+   "numberofResults": "147 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Chris Murphy\")  AND pd(20170101-20171231)",
+   "numberofResults": "275 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Mazie Hirono\")  AND pd(20170101-20171231)",
+   "numberofResults": "55 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Martin Heinrich\")  AND pd(20170101-20171231)",
+   "numberofResults": "77 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Angus King\")  AND pd(20170101-20171231)",
+   "numberofResults": "140 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Tim Kaine\")  AND pd(20170101-20171231)",
+   "numberofResults": "600 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Ted Cruz\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,134 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Elizabeth Warren\")  AND pd(20170101-20171231)",
+   "numberofResults": "864 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Deb Fischer\")  AND pd(20170101-20171231)",
+   "numberofResults": "43 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Heidi Heitkamp\")  AND pd(20170101-20171231)",
+   "numberofResults": "236 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Edward Markey\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Cory Booker\")  AND pd(20170101-20171231)",
+   "numberofResults": "317 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Shelley Moore Capito\")  AND pd(20170101-20171231)",
+   "numberofResults": "276 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Gary Peters\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Bill Cassidy\")  AND pd(20170101-20171231)",
+   "numberofResults": "446 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Cory Gardner\")  AND pd(20170101-20171231)",
+   "numberofResults": "220 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"James Lankford\")  AND pd(20170101-20171231)",
+   "numberofResults": "209 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Tom Cotton\")  AND pd(20170101-20171231)",
+   "numberofResults": "443 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Steve Daines\")  AND pd(20170101-20171231)",
+   "numberofResults": "112 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Mike Rounds\")  AND pd(20170101-20171231)",
+   "numberofResults": "69 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"David Perdue\")  AND pd(20170101-20171231)",
+   "numberofResults": "180 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Thom Tillis\")  AND pd(20170101-20171231)",
+   "numberofResults": "138 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Joni Ernst\")  AND pd(20170101-20171231)",
+   "numberofResults": "110 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Ben Sasse\")  AND pd(20170101-20171231)",
+   "numberofResults": "359 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Dan Sullivan\")  AND pd(20170101-20171231)",
+   "numberofResults": "100 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Chris Van Hollen\")  AND pd(20170101-20171231)",
+   "numberofResults": "249 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Todd Young\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Tammy Duckworth\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Maggie Hassan\")  AND pd(20170101-20171231)",
+   "numberofResults": "80 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Kamala Harris\")  AND pd(20170101-20171231)",
+   "numberofResults": "124 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"John Neely Kennedy\")  AND pd(20170101-20171231)",
+   "numberofResults": "64 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Catherine Cortez Masto\")  AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  }
+ ]
+}

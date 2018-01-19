@@ -1,0 +1,407 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(usa today) AND (\"Luther Strange\")  AND pd(20170101-20171231)",
+   "numberofResults": "45 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Patrick Leahy\")  AND pd(20170101-20171231)",
+   "numberofResults": "39 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Orrin Hatch\")  AND pd(20170101-20171231)",
+   "numberofResults": "78 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Thad Cochran\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Charles Grassley\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Mitch McConnell\")  AND pd(20170101-20171231)",
+   "numberofResults": "417 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Richard Shelby\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"John McCain\")  AND pd(20170101-20171231)",
+   "numberofResults": "311 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Dianne Feinstein\")  AND pd(20170101-20171231)",
+   "numberofResults": "120 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Patty Murray\")  AND pd(20170101-20171231)",
+   "numberofResults": "54 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jim Inhofe\")  AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Ron Wyden\")  AND pd(20170101-20171231)",
+   "numberofResults": "59 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Pat Roberts\")  AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Richard Durbin\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jack Reed\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jeff Sessions\")  AND pd(20170101-20171231)",
+   "numberofResults": "572 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Susan Collins\")  AND pd(20170101-20171231)",
+   "numberofResults": "131 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Mike Enzi\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Charles Schumer\")  AND pd(20170101-20171231)",
+   "numberofResults": "127 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Mike Crapo\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Bill Nelson\")  AND pd(20170101-20171231)",
+   "numberofResults": "65 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Tom Carper\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Debbie Stabenow\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Maria Cantwell\")  AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"John Cornyn\")  AND pd(20170101-20171231)",
+   "numberofResults": "74 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Lisa Murkowski\")  AND pd(20170101-20171231)",
+   "numberofResults": "77 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Lindsey Graham\")  AND pd(20170101-20171231)",
+   "numberofResults": "173 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Lamar Alexander\")  AND pd(20170101-20171231)",
+   "numberofResults": "57 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Richard Burr\")  AND pd(20170101-20171231)",
+   "numberofResults": "74 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"John Thune\")  AND pd(20170101-20171231)",
+   "numberofResults": "34 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Johnny Isakson\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Robert Menendez\")  AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Ben Cardin\")  AND pd(20170101-20171231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Bernie Sanders\")  AND pd(20170101-20171231)",
+   "numberofResults": "221 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Sherrod Brown\")  AND pd(20170101-20171231)",
+   "numberofResults": "48 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Bob Casey\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Bob Corker\")  AND pd(20170101-20171231)",
+   "numberofResults": "129 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Claire McCaskill\")  AND pd(20170101-20171231)",
+   "numberofResults": "54 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Amy Klobuchar\")  AND pd(20170101-20171231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Sheldon Whitehouse\")  AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jon Tester\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"John Barrasso\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Roger Wicker\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Tom Udall\")  AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jeanne Shaheen\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Mark Warner\")  AND pd(20170101-20171231)",
+   "numberofResults": "91 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"James Risch\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jeff Merkley\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Michael Bennet\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Kirsten Gillibrand\")  AND pd(20170101-20171231)",
+   "numberofResults": "64 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Al Franken\")  AND pd(20170101-20171231)",
+   "numberofResults": "135 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Joe Manchin\")  AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Chris Coons\")  AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Roy Blunt\")  AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jerry Moran\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Rob Portman\")  AND pd(20170101-20171231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"John Boozman\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Pat Toomey\")  AND pd(20170101-20171231)",
+   "numberofResults": "33 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"John Hoeven\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Marco Rubio\")  AND pd(20170101-20171231)",
+   "numberofResults": "118 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Ron Johnson\")  AND pd(20170101-20171231)",
+   "numberofResults": "61 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Rand Paul\")  AND pd(20170101-20171231)",
+   "numberofResults": "99 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Richard Blumenthal\")  AND pd(20170101-20171231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Mike Lee\")  AND pd(20170101-20171231)",
+   "numberofResults": "54 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Dean Heller\")  AND pd(20170101-20171231)",
+   "numberofResults": "53 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Brian Schatz\")  AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Tim Scott\")  AND pd(20170101-20171231)",
+   "numberofResults": "29 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Tammy Baldwin\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Jeff Flake\")  AND pd(20170101-20171231)",
+   "numberofResults": "104 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Joe Donnelly\")  AND pd(20170101-20171231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Chris Murphy\")  AND pd(20170101-20171231)",
+   "numberofResults": "31 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Mazie Hirono\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Martin Heinrich\")  AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Angus King\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Tim Kaine\")  AND pd(20170101-20171231)",
+   "numberofResults": "40 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Ted Cruz\")  AND pd(20170101-20171231)",
+   "numberofResults": "116 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Elizabeth Warren\")  AND pd(20170101-20171231)",
+   "numberofResults": "105 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Deb Fischer\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Heidi Heitkamp\")  AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Edward Markey\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Cory Booker\")  AND pd(20170101-20171231)",
+   "numberofResults": "52 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Shelley Moore Capito\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Gary Peters\")  AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Bill Cassidy\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Cory Gardner\")  AND pd(20170101-20171231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"James Lankford\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Tom Cotton\")  AND pd(20170101-20171231)",
+   "numberofResults": "37 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Steve Daines\")  AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Mike Rounds\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"David Perdue\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Thom Tillis\")  AND pd(20170101-20171231)",
+   "numberofResults": "32 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Joni Ernst\")  AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Ben Sasse\")  AND pd(20170101-20171231)",
+   "numberofResults": "48 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Dan Sullivan\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Chris Van Hollen\")  AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Todd Young\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Tammy Duckworth\")  AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Maggie Hassan\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Kamala Harris\")  AND pd(20170101-20171231)",
+   "numberofResults": "39 results"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"John Neely Kennedy\")  AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(usa today) AND (\"Catherine Cortez Masto\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  }
+ ]
+}

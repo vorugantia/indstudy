@@ -1,0 +1,408 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(new york times) AND (\"Luther Strange\")  AND pd(20170101-20171231)",
+   "numberofResults": "178 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Patrick Leahy\")  AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Orrin Hatch\")  AND pd(20170101-20171231)",
+   "numberofResults": "137 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Thad Cochran\")  AND pd(20170101-20171231)",
+   "numberofResults": "33 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Charles Grassley\")  AND pd(20170101-20171231)",
+   "numberofResults": "29 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mitch McConnell\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,530 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Richard Shelby\")  AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John McCain\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,168 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Dianne Feinstein\")  AND pd(20170101-20171231)",
+   "numberofResults": "279 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Patty Murray\")  AND pd(20170101-20171231)",
+   "numberofResults": "196 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jim Inhofe\")  AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ron Wyden\")  AND pd(20170101-20171231)",
+   "numberofResults": "232 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Pat Roberts\")  AND pd(20170101-20171231)",
+   "numberofResults": "37 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Richard Durbin\")  AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jack Reed\")  AND pd(20170101-20171231)",
+   "numberofResults": "49 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeff Sessions\")  AND pd(20170101-20171231)",
+   "numberofResults": "1,846 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Susan Collins\")  AND pd(20170101-20171231)",
+   "numberofResults": "614 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Enzi\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Charles Schumer\")  AND pd(20170101-20171231)",
+   "numberofResults": "29 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Crapo\")  AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bill Nelson\")  AND pd(20170101-20171231)",
+   "numberofResults": "55 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tom Carper\")  AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Debbie Stabenow\")  AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Maria Cantwell\")  AND pd(20170101-20171231)",
+   "numberofResults": "43 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Cornyn\")  AND pd(20170101-20171231)",
+   "numberofResults": "273 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Lisa Murkowski\")  AND pd(20170101-20171231)",
+   "numberofResults": "351 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Lindsey Graham\")  AND pd(20170101-20171231)",
+   "numberofResults": "546 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Lamar Alexander\")  AND pd(20170101-20171231)",
+   "numberofResults": "255 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Richard Burr\")  AND pd(20170101-20171231)",
+   "numberofResults": "63 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Thune\")  AND pd(20170101-20171231)",
+   "numberofResults": "95 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Johnny Isakson\")  AND pd(20170101-20171231)",
+   "numberofResults": "51 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Robert Menendez\")  AND pd(20170101-20171231)",
+   "numberofResults": "142 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ben Cardin\")  AND pd(20170101-20171231)",
+   "numberofResults": "37 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bernie Sanders\")  AND pd(20170101-20171231)",
+   "numberofResults": "875 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Sherrod Brown\")  AND pd(20170101-20171231)",
+   "numberofResults": "127 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bob Casey\")  AND pd(20170101-20171231)",
+   "numberofResults": "40 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bob Corker\")  AND pd(20170101-20171231)",
+   "numberofResults": "550 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Claire McCaskill\")  AND pd(20170101-20171231)",
+   "numberofResults": "107 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Amy Klobuchar\")  AND pd(20170101-20171231)",
+   "numberofResults": "114 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Sheldon Whitehouse\")  AND pd(20170101-20171231)",
+   "numberofResults": "101 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jon Tester\")  AND pd(20170101-20171231)",
+   "numberofResults": "37 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Barrasso\")  AND pd(20170101-20171231)",
+   "numberofResults": "55 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Roger Wicker\")  AND pd(20170101-20171231)",
+   "numberofResults": "38 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tom Udall\")  AND pd(20170101-20171231)",
+   "numberofResults": "33 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeanne Shaheen\")  AND pd(20170101-20171231)",
+   "numberofResults": "46 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mark Warner\")  AND pd(20170101-20171231)",
+   "numberofResults": "248 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"James Risch\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeff Merkley\")  AND pd(20170101-20171231)",
+   "numberofResults": "38 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Michael Bennet\")  AND pd(20170101-20171231)",
+   "numberofResults": "29 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Kirsten Gillibrand\")  AND pd(20170101-20171231)",
+   "numberofResults": "161 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Al Franken\")  AND pd(20170101-20171231)",
+   "numberofResults": "448 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Joe Manchin\")  AND pd(20170101-20171231)",
+   "numberofResults": "134 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chris Coons\")  AND pd(20170101-20171231)",
+   "numberofResults": "51 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Roy Blunt\")  AND pd(20170101-20171231)",
+   "numberofResults": "76 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jerry Moran\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Rob Portman\")  AND pd(20170101-20171231)",
+   "numberofResults": "199 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Boozman\")  AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Pat Toomey\")  AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Hoeven\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Marco Rubio\")  AND pd(20170101-20171231)",
+   "numberofResults": "406 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ron Johnson\")  AND pd(20170101-20171231)",
+   "numberofResults": "144 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Rand Paul\")  AND pd(20170101-20171231)",
+   "numberofResults": "307 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Richard Blumenthal\")  AND pd(20170101-20171231)",
+   "numberofResults": "162 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Lee\")  AND pd(20170101-20171231)",
+   "numberofResults": "173 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Dean Heller\")  AND pd(20170101-20171231)",
+   "numberofResults": "182 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Brian Schatz\")  AND pd(20170101-20171231)",
+   "numberofResults": "41 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tim Scott\")  AND pd(20170101-20171231)",
+   "numberofResults": "72 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tammy Baldwin\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Jeff Flake\")  AND pd(20170101-20171231)",
+   "numberofResults": "401 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Joe Donnelly\")  AND pd(20170101-20171231)",
+   "numberofResults": "32 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chris Murphy\")  AND pd(20170101-20171231)",
+   "numberofResults": "58 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mazie Hirono\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Martin Heinrich\")  AND pd(20170101-20171231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Angus King\")  AND pd(20170101-20171231)",
+   "numberofResults": "59 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tim Kaine\")  AND pd(20170101-20171231)",
+   "numberofResults": "138 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ted Cruz\")  AND pd(20170101-20171231)",
+   "numberofResults": "506 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Elizabeth Warren\")  AND pd(20170101-20171231)",
+   "numberofResults": "448 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Deb Fischer\")  AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Heidi Heitkamp\")  AND pd(20170101-20171231)",
+   "numberofResults": "77 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Edward Markey\")  AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Cory Booker\")  AND pd(20170101-20171231)",
+   "numberofResults": "147 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Shelley Moore Capito\")  AND pd(20170101-20171231)",
+   "numberofResults": "137 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Gary Peters\")  AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Bill Cassidy\")  AND pd(20170101-20171231)",
+   "numberofResults": "164 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Cory Gardner\")  AND pd(20170101-20171231)",
+   "numberofResults": "71 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"James Lankford\")  AND pd(20170101-20171231)",
+   "numberofResults": "71 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tom Cotton\")  AND pd(20170101-20171231)",
+   "numberofResults": "172 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Steve Daines\")  AND pd(20170101-20171231)",
+   "numberofResults": "41 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Mike Rounds\")  AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"David Perdue\")  AND pd(20170101-20171231)",
+   "numberofResults": "57 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Thom Tillis\")  AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Joni Ernst\")  AND pd(20170101-20171231)",
+   "numberofResults": "30 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Ben Sasse\")  AND pd(20170101-20171231)",
+   "numberofResults": "139 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Dan Sullivan\")  AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Chris Van Hollen\")  AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Todd Young\")  AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Tammy Duckworth\")  AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Maggie Hassan\")  AND pd(20170101-20171231)",
+   "numberofResults": "39 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Kamala Harris\")  AND pd(20170101-20171231)",
+   "numberofResults": "154 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"John Neely Kennedy\")  AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Catherine Cortez Masto\")  AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  }
+ ]
+}
