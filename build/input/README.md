@@ -10,6 +10,11 @@ Data is listed in `senator_list.json` as an array of objects (with keys `name` a
 
 **First, I'm compiling a list of senators for 2016 (saved as `senator_list.json`). Once the year 2017 is completed, I will switch the senator list to the 2017 version.**
 
+## 2. Think tanks/policy groups
+
+I've compiled a list of the 50 most prominent think tanks and policy groups according to Tim Groseclose's 2005 paper, "A measure of media bias." Each organization is given a score either derived from Groseclose's paper or from the [Media Bias/Fact Check](https://mediabiasfactcheck.com/) website.
+
+Data is listed in `organization_list.json` in a similar format to `senator_list.json`.
 
 ## Sources
 
