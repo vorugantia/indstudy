@@ -1,0 +1,196 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Brookings Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "424 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"American Civil Liberties Union\" OR \"ACLU\") AND pd(20170101-20171231)",
+   "numberofResults": "391 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"National Association for the Advancement of Colored People\" OR \"NAACP\") AND pd(20170101-20171231)",
+   "numberofResults": "87 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Center for Strategic and International Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "190 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Amnesty International\") AND pd(20170101-20171231)",
+   "numberofResults": "144 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Council on Foreign Relations\") AND pd(20170101-20171231)",
+   "numberofResults": "208 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Sierra Club\") AND pd(20170101-20171231)",
+   "numberofResults": "71 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"American Enterprise Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "510 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"RAND Corporation\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"National Rifle Association\" OR \"NRA\") AND pd(20170101-20171231)",
+   "numberofResults": "120 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"American Association for Retired Persons\" OR \"AARP\") AND pd(20170101-20171231)",
+   "numberofResults": "109 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Carnegie Endowment\") AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Heritage Foundation\") AND pd(20170101-20171231)",
+   "numberofResults": "244 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Center for Responsive Politics\") AND pd(20170101-20171231)",
+   "numberofResults": "71 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Consumer Federation of America\") AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Christian Coalition\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Cato Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "174 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"National Organization for Women\") AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Institute for International Economics\") AND pd(20170101-20171231)",
+   "numberofResults": "181 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Urban Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "101 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Family Research Council\") AND pd(20170101-20171231)",
+   "numberofResults": "38 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Federation of American Scientists\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Economic Policy Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Center on Budget and Policy Priorities\") AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"National Right to Life\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Electronic Privacy Information Center\") AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Institute for Strategic Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "57 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"World Wildlife Fund\" OR \"WWF\") AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Center for Strategic and Budgetary Assessments\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"National Abortion and Reproductive Rights Action League\" OR \"NARAL\") AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Children's Defense Fund\") AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Employee Benefit Research Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "41 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Citizens Against Government Waste\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"People for the American Way\") AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Environmental Defense Fund\") AND pd(20170101-20171231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Economic Strategy Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"People for the Ethical Treatment of Animals\" OR \"PETA\") AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Americans for Tax Reform\") AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Citizens for Tax Justice\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"National Federation of Independent Businesses\" OR \"NFIB\") AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Hudson Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "199 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"National Taxpayers Union\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Stimson Center\") AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Project on Government Oversight\") AND pd(20170101-20171231)",
+   "numberofResults": "7 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Brady Campaign\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Hoover Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "296 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Center for the National Interest\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"American Conservative Union\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(wall street journal) AND (\"Manhattan Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "171 results"
+  }
+ ]
+}

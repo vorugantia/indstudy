@@ -1,0 +1,194 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Brookings Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "98 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"American Civil Liberties Union\" OR \"ACLU\") AND pd(20170101-20171231)",
+   "numberofResults": "371 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"National Association for the Advancement of Colored People\" OR \"NAACP\") AND pd(20170101-20171231)",
+   "numberofResults": "141 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Center for Strategic and International Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "20 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Amnesty International\") AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Council on Foreign Relations\") AND pd(20170101-20171231)",
+   "numberofResults": "28 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Sierra Club\") AND pd(20170101-20171231)",
+   "numberofResults": "101 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"American Enterprise Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "113 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"RAND Corporation\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"National Rifle Association\" OR \"NRA\") AND pd(20170101-20171231)",
+   "numberofResults": "183 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"American Association for Retired Persons\" OR \"AARP\") AND pd(20170101-20171231)",
+   "numberofResults": "112 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Carnegie Endowment\") AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Heritage Foundation\") AND pd(20170101-20171231)",
+   "numberofResults": "113 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Center for Responsive Politics\") AND pd(20170101-20171231)",
+   "numberofResults": "10 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Consumer Federation of America\") AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Christian Coalition\") AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Cato Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "25 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"National Organization for Women\") AND pd(20170101-20171231)",
+   "numberofResults": "21 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Institute for International Economics\") AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Urban Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "53 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Family Research Council\") AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Federation of American Scientists\") AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Economic Policy Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "42 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Center on Budget and Policy Priorities\") AND pd(20170101-20171231)",
+   "numberofResults": "31 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"National Right to Life\") AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Electronic Privacy Information Center\") AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Institute for Strategic Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"World Wildlife Fund\" OR \"WWF\") AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Center for Strategic and Budgetary Assessments\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"National Abortion and Reproductive Rights Action League\" OR \"NARAL\") AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Children's Defense Fund\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Employee Benefit Research Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Citizens Against Government Waste\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"People for the American Way\") AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Environmental Defense Fund\") AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Economic Strategy Institute\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"People for the Ethical Treatment of Animals\" OR \"PETA\") AND pd(20170101-20171231)",
+   "numberofResults": "36 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Americans for Tax Reform\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Citizens for Tax Justice\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"National Federation of Independent Businesses\" OR \"NFIB\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Hudson Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"National Taxpayers Union\") AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Stimson Center\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Project on Government Oversight\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Brady Campaign\") AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Hoover Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "48 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Center for the National Interest\") AND pd(20170101-20171231)",
+   "numberofResults": "3 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"American Conservative Union\") AND pd(20170101-20171231)",
+   "numberofResults": "5 results"
+  },
+  {
+   "searchTerm": "pub(chicago tribune) AND (\"Manhattan Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  }
+ ]
+}

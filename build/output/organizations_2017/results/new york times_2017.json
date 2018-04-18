@@ -1,0 +1,199 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(new york times) AND (\"Brookings Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "459 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"American Civil Liberties Union\" OR \"ACLU\") AND pd(20170101-20171231)",
+   "numberofResults": "752 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"National Association for the Advancement of Colored People\" OR \"NAACP\") AND pd(20170101-20171231)",
+   "numberofResults": "117 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Center for Strategic and International Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "238 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Amnesty International\") AND pd(20170101-20171231)",
+   "numberofResults": "349 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Council on Foreign Relations\") AND pd(20170101-20171231)",
+   "numberofResults": "323 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Sierra Club\") AND pd(20170101-20171231)",
+   "numberofResults": "112 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"American Enterprise Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "268 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"RAND Corporation\") AND pd(20170101-20171231)",
+   "numberofResults": "125 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"National Rifle Association\" OR \"NRA\") AND pd(20170101-20171231)",
+   "numberofResults": "329 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"American Association for Retired Persons\" OR \"AARP\") AND pd(20170101-20171231)",
+   "numberofResults": "175 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Carnegie Endowment\") AND pd(20170101-20171231)",
+   "numberofResults": "76 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Heritage Foundation\") AND pd(20170101-20171231)",
+   "numberofResults": "339 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Center for Responsive Politics\") AND pd(20170101-20171231)",
+   "numberofResults": "64 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Consumer Federation of America\") AND pd(20170101-20171231)",
+   "numberofResults": "52 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Christian Coalition\") AND pd(20170101-20171231)",
+   "numberofResults": "13 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Cato Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "83 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"National Organization for Women\") AND pd(20170101-20171231)",
+   "numberofResults": "61 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Institute for International Economics\") AND pd(20170101-20171231)",
+   "numberofResults": "132 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Urban Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "114 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Family Research Council\") AND pd(20170101-20171231)",
+   "numberofResults": "70 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Federation of American Scientists\") AND pd(20170101-20171231)",
+   "numberofResults": "17 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Economic Policy Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "69 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Center on Budget and Policy Priorities\") AND pd(20170101-20171231)",
+   "numberofResults": "124 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"National Right to Life\") AND pd(20170101-20171231)",
+   "numberofResults": "27 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Electronic Privacy Information Center\") AND pd(20170101-20171231)",
+   "numberofResults": "22 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Institute for Strategic Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "60 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"World Wildlife Fund\" OR \"WWF\") AND pd(20170101-20171231)",
+   "numberofResults": "65 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Center for Strategic and Budgetary Assessments\") AND pd(20170101-20171231)",
+   "numberofResults": "4 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"National Abortion and Reproductive Rights Action League\" OR \"NARAL\") AND pd(20170101-20171231)",
+   "numberofResults": "40 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Children's Defense Fund\") AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Employee Benefit Research Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "6 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Citizens Against Government Waste\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"People for the American Way\") AND pd(20170101-20171231)",
+   "numberofResults": "14 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Environmental Defense Fund\") AND pd(20170101-20171231)",
+   "numberofResults": "62 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Economic Strategy Institute\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"People for the Ethical Treatment of Animals\" OR \"PETA\") AND pd(20170101-20171231)",
+   "numberofResults": "79 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Americans for Tax Reform\") AND pd(20170101-20171231)",
+   "numberofResults": "44 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Citizens for Tax Justice\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"National Federation of Independent Businesses\" OR \"NFIB\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Hudson Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "34 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"National Taxpayers Union\") AND pd(20170101-20171231)",
+   "numberofResults": "2 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Stimson Center\") AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Project on Government Oversight\") AND pd(20170101-20171231)",
+   "numberofResults": "24 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Brady Campaign\") AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Hoover Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "72 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Center for the National Interest\") AND pd(20170101-20171231)",
+   "numberofResults": "11 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"American Conservative Union\") AND pd(20170101-20171231)",
+   "numberofResults": "28 results"
+  },
+  {
+   "searchTerm": "pub(new york times) AND (\"Manhattan Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "56 results"
+  }
+ ]
+}

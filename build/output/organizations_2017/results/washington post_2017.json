@@ -1,0 +1,198 @@
+{
+ "results": [
+  {
+   "searchTerm": "pub(washington post) AND (\"Brookings Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "765 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"American Civil Liberties Union\" OR \"ACLU\") AND pd(20170101-20171231)",
+   "numberofResults": "1,129 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"National Association for the Advancement of Colored People\" OR \"NAACP\") AND pd(20170101-20171231)",
+   "numberofResults": "702 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Center for Strategic and International Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "274 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Amnesty International\") AND pd(20170101-20171231)",
+   "numberofResults": "283 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Council on Foreign Relations\") AND pd(20170101-20171231)",
+   "numberofResults": "287 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Sierra Club\") AND pd(20170101-20171231)",
+   "numberofResults": "219 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"American Enterprise Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "494 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"RAND Corporation\") AND pd(20170101-20171231)",
+   "numberofResults": "19 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"National Rifle Association\" OR \"NRA\") AND pd(20170101-20171231)",
+   "numberofResults": "662 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"American Association for Retired Persons\" OR \"AARP\") AND pd(20170101-20171231)",
+   "numberofResults": "389 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Carnegie Endowment\") AND pd(20170101-20171231)",
+   "numberofResults": "116 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Heritage Foundation\") AND pd(20170101-20171231)",
+   "numberofResults": "580 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Center for Responsive Politics\") AND pd(20170101-20171231)",
+   "numberofResults": "75 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Consumer Federation of America\") AND pd(20170101-20171231)",
+   "numberofResults": "61 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Christian Coalition\") AND pd(20170101-20171231)",
+   "numberofResults": "15 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Cato Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "269 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"National Organization for Women\") AND pd(20170101-20171231)",
+   "numberofResults": "49 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Institute for International Economics\") AND pd(20170101-20171231)",
+   "numberofResults": "157 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Urban Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "180 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Family Research Council\") AND pd(20170101-20171231)",
+   "numberofResults": "87 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Federation of American Scientists\") AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Economic Policy Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "161 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Center on Budget and Policy Priorities\") AND pd(20170101-20171231)",
+   "numberofResults": "200 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"National Right to Life\") AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Electronic Privacy Information Center\") AND pd(20170101-20171231)",
+   "numberofResults": "40 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Institute for Strategic Studies\") AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"World Wildlife Fund\" OR \"WWF\") AND pd(20170101-20171231)",
+   "numberofResults": "38 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Center for Strategic and Budgetary Assessments\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"National Abortion and Reproductive Rights Action League\" OR \"NARAL\") AND pd(20170101-20171231)",
+   "numberofResults": "90 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Children's Defense Fund\") AND pd(20170101-20171231)",
+   "numberofResults": "9 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Employee Benefit Research Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "12 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Citizens Against Government Waste\") AND pd(20170101-20171231)",
+   "numberofResults": "1 result"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"People for the American Way\") AND pd(20170101-20171231)",
+   "numberofResults": "35 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Environmental Defense Fund\") AND pd(20170101-20171231)",
+   "numberofResults": "70 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Economic Strategy Institute\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"People for the Ethical Treatment of Animals\" OR \"PETA\") AND pd(20170101-20171231)",
+   "numberofResults": "116 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Americans for Tax Reform\") AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Citizens for Tax Justice\") AND pd(20170101-20171231)"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"National Federation of Independent Businesses\" OR \"NFIB\") AND pd(20170101-20171231)",
+   "numberofResults": "50 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Hudson Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "47 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"National Taxpayers Union\") AND pd(20170101-20171231)",
+   "numberofResults": "8 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Stimson Center\") AND pd(20170101-20171231)",
+   "numberofResults": "16 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Project on Government Oversight\") AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Brady Campaign\") AND pd(20170101-20171231)",
+   "numberofResults": "18 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Hoover Institution\") AND pd(20170101-20171231)",
+   "numberofResults": "97 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Center for the National Interest\") AND pd(20170101-20171231)",
+   "numberofResults": "26 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"American Conservative Union\") AND pd(20170101-20171231)",
+   "numberofResults": "79 results"
+  },
+  {
+   "searchTerm": "pub(washington post) AND (\"Manhattan Institute\") AND pd(20170101-20171231)",
+   "numberofResults": "23 results"
+  }
+ ]
+}
