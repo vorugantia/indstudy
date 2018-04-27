@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawSeriesChart);
+
+    function drawSeriesChart() {
+
+      var data = google.visualization.arrayToDataTable([
+        ['Organization', 'Score', '# mentions', 'News source'],
+
+        ['Brookings Institution',    0.066,              98,      'Chicago Tribune'],
+        ['ACLU',         -0.004,              371,      'Chicago Tribune'],
+        ['NAACP',        0.508,              141,       'Chicago Tribune'],
+        ['Center for Strategic and International Studies', -0.074, 20, 'Chicago Tribune'],
+
+        ['Brookings Institution',    0.066,              18,       'Daily Beast'],
+        ['ACLU',    -0.004,              109,       'Daily Beast'],
+        ['NAACP',    0.508,              36,       'Daily Beast'],
+        ['Center for Strategic and International Studies', -0.074, 5, 'Daily Beast'],
+
+      ]);
+
+      var options = {
+        title: 'Distribution of organization mentions across different news sources',
+        hAxis: {
+          title: 'Organization score',
+          viewWindow: {min: -1, max: 1}
+        },
+        vAxis: {title: '# mentions'},
+        // bubble: {textStyle: {fontSize: 8}},
+        sizeAxis: {maxSize: 5}
+      };
+
+      var chart = new google.visualization.BubbleChart(document.getElementById('series_chart_div'));
+      chart.draw(data, options);
+    }
+    </script>
+  </head>
+  <body>
+    <div id="series_chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
